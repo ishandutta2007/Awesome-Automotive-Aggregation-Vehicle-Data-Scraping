@@ -74,11 +74,11 @@ Below is an analytical overview of the premier commercial automotive aggregation
 
 ## 💻 Open-Source GitHub Projects
 
-Explore the top open-source projects for vehicle telemetry, VIN decoding, web scraping, browser automation, and data analytics. Sorted in descending order by **GitHub Stars ⭐**.
+Explore the top open-source projects for vehicle telemetry, VIN decoding, web scraping, browser automation, and data analytics. Sorted in descending order by **GitHub_Stars ⭐**.
 
 ### 🔍 Automotive Intelligence & VIN Decoders
 
-| Project | Description | GitHub Stars |
+| Project | Description | GitHub_Stars |
 | :--- | :--- | :---: |
 | **[commaai/openpilot](https://github.com/commaai/openpilot)** | Open-source advanced driver assistance system and vehicle CAN-bus interface compatible with 250+ car models. | [![Stars](https://img.shields.io/github/stars/commaai/openpilot?style=social&color=white)](https://github.com/commaai/openpilot/stargazers) |
 | **[cantools/cantools](https://github.com/cantools/cantools)** | Python tools and libraries for CAN bus DBC editing, message decoding, encoding, and diagnostic analysis. | [![Stars](https://img.shields.io/github/stars/cantools/cantools?style=social&color=white)](https://github.com/cantools/cantools/stargazers) |
@@ -91,7 +91,7 @@ Explore the top open-source projects for vehicle telemetry, VIN decoding, web sc
 
 ### 🕷️ High-Performance Crawlers & Scraping Engines
 
-| Project | Description | GitHub Stars |
+| Project | Description | GitHub_Stars |
 | :--- | :--- | :---: |
 | **[microsoft/playwright](https://github.com/microsoft/playwright)** | Reliable cross-browser end-to-end automation framework for Chromium, Firefox, and WebKit; ideal for scraping dynamic SPAs. | [![Stars](https://img.shields.io/github/stars/microsoft/playwright?style=social&color=white)](https://github.com/microsoft/playwright/stargazers) |
 | **[puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)** | Node.js library providing a high-level API to control headless Chrome or Chromium for vehicle inventory extraction. | [![Stars](https://img.shields.io/github/stars/puppeteer/puppeteer?style=social&color=white)](https://github.com/puppeteer/puppeteer/stargazers) |
@@ -107,7 +107,7 @@ Explore the top open-source projects for vehicle telemetry, VIN decoding, web sc
 
 ### 🛡️ Stealth Automation & Anti-Bot Bypassing
 
-| Project | Description | GitHub Stars |
+| Project | Description | GitHub_Stars |
 | :--- | :--- | :---: |
 | **[SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium)** | The industry-standard browser automation framework supporting Python, Java, C#, and Ruby for web interaction. | [![Stars](https://img.shields.io/github/stars/SeleniumHQ/selenium?style=social&color=white)](https://github.com/SeleniumHQ/selenium/stargazers) |
 | **[daijro/camoufox](https://github.com/daijro/camoufox)** | Stealth Firefox-based browser configured specifically to resist advanced anti-bot fingerprinting and TLS detection. | [![Stars](https://img.shields.io/github/stars/daijro/camoufox?style=social&color=white)](https://github.com/daijro/camoufox/stargazers) |
@@ -118,7 +118,7 @@ Explore the top open-source projects for vehicle telemetry, VIN decoding, web sc
 
 ### 📈 Data Warehousing, Analytics & Dashboarding
 
-| Project | Description | GitHub Stars |
+| Project | Description | GitHub_Stars |
 | :--- | :--- | :---: |
 | **[apache/superset](https://github.com/apache/superset)** | Modern enterprise data exploration and visualization platform for creating vehicle market pricing dashboards. | [![Stars](https://img.shields.io/github/stars/apache/superset?style=social&color=white)](https://github.com/apache/superset/stargazers) |
 | **[metabase/metabase](https://github.com/metabase/metabase)** | Easy-to-use business intelligence and analytics server for querying scraped dealership data and vehicle metrics. | [![Stars](https://img.shields.io/github/stars/metabase/metabase?style=social&color=white)](https://github.com/metabase/metabase/stargazers) |
@@ -140,7 +140,7 @@ Contributions are welcome! Please follow these simple steps:
 
 1. 🍴 **Fork** this repository.
 2. 🌿 **Create a branch**: `git checkout -b feature/new-vehicle-tool`.
-3. 📝 **Add your tool**: Ensure you follow the table formatting, specify exact starting pricing, free tier limits, company valuation/revenue, or GitHub star count badges.
+3. 📝 **Add your tool**: Ensure you follow the table formatting, specify exact starting pricing, free tier limits, company valuation/revenue, or GitHub Stars_Count badges.
 4. 🚀 **Submit a Pull Request** with a succinct description of the platform or library.
 
 ---
